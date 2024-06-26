@@ -1,0 +1,5 @@
+消融实验:删除子图提取和模态对齐
+1.
+修改部分:删除get_sub_graph
+2.
+删除位置关系编码,即删除掉选Transformer Decoder的输入
