@@ -115,4 +115,4 @@ dependencies:
       - xlwt==1.3.0
       - zarr==2.12.0
       - zipp==3.11.0
-prefix: /home/ubuntu/.conda/envs/lpj37
+prefix: /home/ubuntu/.conda/envs/DenC
