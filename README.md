@@ -3,7 +3,7 @@ This repository contains the main code for the paper "Region-Focused Network for
 
 
 ## Scene graph
-We extract the scene graph by https://github.com/jz462/Large-Scale-VRD.pytorch
+We extract the scene graph by [Large-Scale-VRD](https://github.com/jz462/Large-Scale-VRD.pytorch)
 
 ## Different backbones in experiments
 For faster-rcnn, we take the 10-100 bounding boxes as the image features.
